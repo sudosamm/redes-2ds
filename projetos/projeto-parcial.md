@@ -59,8 +59,10 @@ Definam os responsáveis antes de começar para evitar assuntos repetidos. Os te
 | 14 | Qualidade e Teste de Softwares | Casos de teste, registro de falhas e verificação das correções. |
 | 15 | Projetos da turma | Apresentação de trabalhos e do que eles resolvem. |
 | 16 | Gestão de Startups | Identificação de problemas, soluções, público e validação de ideias. |
-
-Outras opções para substituir um tema, mediante combinação: **Informática Básica** (arquivos e ferramentas digitais), **Lógica de Programação** (algoritmos, condições e repetições), **Arquitetura e Manutenção de Computadores** (componentes e diagnóstico) e **Planejamento de Carreira** (habilidades, objetivos e formação).
+| 17 | Informática Básica | Arquivos e ferramentas digitais. |
+| 18 | Lógica de Programação | Algoritmos, condições e repetições. |
+| 19 | Arquitetura e Manutenção de Computadores | Componentes e diagnóstico. |
+| 20 | Planejamento de Carreira | Habilidades, objetivos e formação. |
 
 Cada área deverá ter um título, pelo menos dois parágrafos curtos ou duas seções úteis e identificação pelo nome dos integrantes da equipe. Registrem a fonte das informações quando houver pesquisa.
 
